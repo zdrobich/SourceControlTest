@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Source Control Test" max_length="40" name="x_source_control_t_source_control_test" type="collection"/>
+</database>
