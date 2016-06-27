@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>maint</sys_created_by>
         <sys_created_on>2016-06-27 08:49:34</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>904b4e41281022004e822413e5e6e68b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_source_control_t_source_control_test.x_source_control_t_source_control_test_user</sys_name>

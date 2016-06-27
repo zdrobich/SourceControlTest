@@ -12,7 +12,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>maint</sys_created_by>
         <sys_created_on>2016-06-27 08:49:32</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>bf3b8a41281022004e822413e5e6e635</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_source_control_t_source_control_test_user</sys_name>

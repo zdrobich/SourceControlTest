@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>maint</sys_created_by>
         <sys_created_on>2016-06-27 08:49:32</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c12b0e41281022004e822413e5e6e61c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Source Control Test</sys_name>
