@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update sys_domain="global" table="sys_script">
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
     <sys_script action="INSERT_OR_UPDATE">
         <abort_action>false</abort_action>
         <access>package_private</access>
@@ -19,7 +18,7 @@
         <filter_condition/>
         <is_rest>false</is_rest>
         <message/>
-        <name>test BR 1</name>
+        <name>test BR 3</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -41,7 +40,7 @@
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a75ca605281022004e822413e5e6e6fb</sys_id>
         <sys_mod_count>5</sys_mod_count>
-        <sys_name>test BR 1</sys_name>
+        <sys_name>test BR 3</sys_name>
         <sys_overrides/>
         <sys_package display_value="Source Control Test" source="x_source_control_t">aa0b8641281022004e822413e5e6e6e9</sys_package>
         <sys_policy/>

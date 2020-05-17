@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="field_2" label="Field 2" language="en" table="x_source_control_t_source_control_test">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>field_2</element>
@@ -13,7 +12,7 @@
             <sys_created_by>maint</sys_created_by>
             <sys_created_on>2016-06-27 10:57:35</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>ab886205281022004e822413e5e6e6be</sys_id>
+            <sys_id>e1388912db709c100324892a489619a1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Field 2</sys_name>
             <sys_package display_value="Source Control Test" source="x_source_control_t">aa0b8641281022004e822413e5e6e6e9</sys_package>
